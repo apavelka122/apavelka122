@@ -1,10 +1,5 @@
 ## Hi there 👋 My Name is Alex Pavelka I am a recent grad from the University Of Minnesota Twin Cities, with a bachelors degree in Information Technology
 
-<!--
-**apavelka122/apavelka122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a DMVPN 3 site network (one HQ and two remotes) that use DMVPN and exchange routes dynamically with OSPF,and working on an MPLS IP VPN using OSPF, RIP, and BGP
 - 🌱 I’m currently learning Border Gateway Protocol (BGP). 
 - 👯 I’m looking to collaborate on ...
